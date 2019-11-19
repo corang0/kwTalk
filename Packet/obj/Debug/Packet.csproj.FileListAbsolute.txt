@@ -1,0 +1,41 @@
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\bin\Debug\Packet.dll
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\bin\Debug\Packet.pdb
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\obj\Debug\Packet.csprojAssemblyReference.cache
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\obj\Debug\Packet.csproj.CoreCompileInputs.cache
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\obj\Debug\Packet.dll
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\obj\Debug\Packet.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\Packet\bin\Debug\Packet.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\Packet\bin\Debug\Packet.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\Packet\obj\Debug\Packet.csprojAssemblyReference.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\Packet\obj\Debug\Packet.csproj.CoreCompileInputs.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\Packet\obj\Debug\Packet.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\Packet\obj\Debug\Packet.pdb
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\Packet\bin\Debug\Packet.dll
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\Packet\bin\Debug\Packet.pdb
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\Packet\obj\Debug\Packet.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\Packet\obj\Debug\Packet.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\Packet\obj\Debug\Packet.dll
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\Packet\obj\Debug\Packet.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\Packet\bin\Debug\Packet.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\Packet\bin\Debug\Packet.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\Packet\obj\Debug\Packet.csprojAssemblyReference.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\Packet\obj\Debug\Packet.csproj.CoreCompileInputs.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\Packet\obj\Debug\Packet.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\Packet\obj\Debug\Packet.pdb
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\Packet\bin\Debug\Packet.dll
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\Packet\bin\Debug\Packet.pdb
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\Packet\obj\Debug\Packet.csprojAssemblyReference.cache
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\Packet\obj\Debug\Packet.csproj.CoreCompileInputs.cache
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\Packet\obj\Debug\Packet.dll
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\Packet\obj\Debug\Packet.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\Packet\bin\Debug\Packet.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\Packet\bin\Debug\Packet.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\Packet\obj\Debug\Packet.csprojAssemblyReference.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\Packet\obj\Debug\Packet.csproj.CoreCompileInputs.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\Packet\obj\Debug\Packet.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\Packet\obj\Debug\Packet.pdb
+C:\Users\KKE\Desktop\팀프최종합본\Packet\bin\Debug\Packet.dll
+C:\Users\KKE\Desktop\팀프최종합본\Packet\bin\Debug\Packet.pdb
+C:\Users\KKE\Desktop\팀프최종합본\Packet\obj\Debug\Packet.csprojResolveAssemblyReference.cache
+C:\Users\KKE\Desktop\팀프최종합본\Packet\obj\Debug\Packet.dll
+C:\Users\KKE\Desktop\팀프최종합본\Packet\obj\Debug\Packet.pdb

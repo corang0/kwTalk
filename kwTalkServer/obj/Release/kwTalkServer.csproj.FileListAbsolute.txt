@@ -1,0 +1,16 @@
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\obj\Release\kwTalkServer.csprojAssemblyReference.cache
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\obj\Release\kwTalkServer.Form1.resources
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\obj\Release\kwTalkServer.Properties.Resources.resources
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\obj\Release\kwTalkServer.csproj.GenerateResource.cache
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\obj\Release\kwTalkServer.csproj.CoreCompileInputs.cache
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\bin\Release\kwTalkServer.exe.config
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\bin\Release\kwTalkServer.exe
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\bin\Release\kwTalkServer.pdb
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\bin\Release\MetroFramework.Design.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\bin\Release\MetroFramework.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\bin\Release\Packet.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\bin\Release\Packet.pdb
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\obj\Release\kwTalkServer.csproj.CopyComplete
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\obj\Release\kwTalkServer.exe
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkServer\obj\Release\kwTalkServer.pdb

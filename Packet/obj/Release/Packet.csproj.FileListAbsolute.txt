@@ -1,0 +1,6 @@
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\bin\Release\Packet.dll
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\bin\Release\Packet.pdb
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\obj\Release\Packet.csprojAssemblyReference.cache
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\obj\Release\Packet.csproj.CoreCompileInputs.cache
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\obj\Release\Packet.dll
+C:\Users\Master\Source\Repos\kwTalkClient\Packet\obj\Release\Packet.pdb

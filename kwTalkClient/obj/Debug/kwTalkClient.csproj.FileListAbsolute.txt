@@ -1,0 +1,207 @@
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\kwTalkClient.exe.config
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\kwTalkClient.exe
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\kwTalkClient.pdb
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\MetroFramework.Design.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\MetroFramework.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.csprojAssemblyReference.cache
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.Form1.resources
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.Properties.Resources.resources
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.csproj.GenerateResource.cache
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.csproj.CoreCompileInputs.cache
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.csproj.CopyComplete
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.exe
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.pdb
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\MySql.Data.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\Google.Protobuf.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\MySql.Data.xml
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.JoinForm.resources
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.MainForm.resources
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\Packet.dll
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\bin\Debug\Packet.pdb
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.CRBeforeCreated.resources
+C:\Users\Master\Source\Repos\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.UCRoomList.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\kwTalkClient.exe.config
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\kwTalkClient.exe
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\kwTalkClient.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\MetroFramework.Design.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\MetroFramework.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\MetroFramework.Fonts.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\MySql.Data.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\Packet.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\Google.Protobuf.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\BouncyCastle.Crypto.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\Packet.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\bin\Debug\MySql.Data.xml
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.csprojAssemblyReference.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.CRBeforeCreated.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.Form1.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.JoinForm.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.MainForm.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.Properties.Resources.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.UCRoomList.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.csproj.GenerateResource.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.csproj.CoreCompileInputs.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.csproj.CopyComplete
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.exe
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\kwTalkClient\obj\Debug\kwTalkClient.pdb
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\kwTalkClient.exe.config
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\kwTalkClient.exe
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\kwTalkClient.pdb
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\MetroFramework.Design.dll
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\MetroFramework.dll
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\Packet.dll
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\Google.Protobuf.dll
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\Packet.pdb
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\bin\Debug\MySql.Data.xml
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.CRBeforeCreated.resources
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.Form1.resources
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.JoinForm.resources
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.MainForm.resources
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.Properties.Resources.resources
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.UCRoomList.resources
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.csproj.GenerateResource.cache
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.csproj.CopyComplete
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.exe
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.pdb
+C:\Users\SAMSUNG\Desktop\수업자료\3학년1학기\응용소프트웨어실습\팀프로젝트\kwTalkClient\obj\Debug\kwTalkClient.UCMessage.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\kwTalkClient.exe.config
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\kwTalkClient.exe
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\kwTalkClient.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\MetroFramework.Design.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\MetroFramework.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\MetroFramework.Fonts.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\MySql.Data.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\Packet.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\Google.Protobuf.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\BouncyCastle.Crypto.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\Packet.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\bin\Debug\MySql.Data.xml
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.csprojAssemblyReference.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.CRBeforeCreated.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.Form1.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.JoinForm.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.Properties.Resources.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.UCMessage.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.UCRoomList.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.csproj.GenerateResource.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.csproj.CoreCompileInputs.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.csproj.CopyComplete
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.exe
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\백업\kwTalkClient\obj\Debug\kwTalkClient.MainForm.resources
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\kwTalkClient.exe.config
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\kwTalkClient.exe
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\kwTalkClient.pdb
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\MetroFramework.Design.dll
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\MetroFramework.dll
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\MetroFramework.Fonts.dll
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\Packet.dll
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\Google.Protobuf.dll
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\BouncyCastle.Crypto.dll
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\Packet.pdb
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\MySql.Data.xml
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.csprojAssemblyReference.cache
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.CRBeforeCreated.resources
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.Form1.resources
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.JoinForm.resources
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.MainForm.resources
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.Properties.Resources.resources
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.UCMessage.resources
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.UCRoomList.resources
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.csproj.GenerateResource.cache
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.csproj.CoreCompileInputs.cache
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.csproj.CopyComplete
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.exe
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\obj\Debug\kwTalkClient.pdb
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\WebDriver.dll
+D:\Documents\3학년 1학기\응용소프트웨어실습\프로젝트\팀프\kwTalkClient\bin\Debug\WebDriver.xml
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\kwTalkClient.exe.config
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\kwTalkClient.exe
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\kwTalkClient.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\MetroFramework.Design.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\MetroFramework.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\MetroFramework.Fonts.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\MySql.Data.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\Packet.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\WebDriver.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\Google.Protobuf.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\BouncyCastle.Crypto.dll
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\Packet.pdb
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\MySql.Data.xml
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\bin\Debug\WebDriver.xml
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.csprojAssemblyReference.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.CRBeforeCreated.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.Form1.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.ImageSelectForm.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.JoinForm.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.lostFoundForm.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.MainForm.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.Properties.Resources.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.UCLostFound.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.UCMessage.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.UCRoomList.resources
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.csproj.GenerateResource.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.csproj.CoreCompileInputs.cache
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.csproj.CopyComplete
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.exe
+D:\개인파일\수업자료\3학년1학기\응용소프트웨어실습\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.pdb
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\kwTalkClient.exe.config
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.exe
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.pdb
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\kwTalkClient.exe
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\kwTalkClient.pdb
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\MetroFramework.Design.dll
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\MetroFramework.dll
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\Packet.dll
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\WebDriver.dll
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\Google.Protobuf.dll
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\Packet.pdb
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\MySql.Data.xml
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\bin\Debug\WebDriver.xml
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.csprojResolveAssemblyReference.cache
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.CRBeforeCreated.resources
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.Form1.resources
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.ImageSelectForm.resources
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.JoinForm.resources
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.lostFoundForm.resources
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.MainForm.resources
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.Properties.Resources.resources
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.UCLostFound.resources
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.UCMessage.resources
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.UCRoomList.resources
+C:\Users\KKE\Documents\카카오톡 받은 파일\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.csproj.GenerateResource.Cache
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\kwTalkClient.exe.config
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.exe
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.pdb
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\kwTalkClient.exe
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\kwTalkClient.pdb
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\MetroFramework.Design.dll
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\MetroFramework.dll
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\Packet.dll
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\WebDriver.dll
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\Google.Protobuf.dll
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\Packet.pdb
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\MySql.Data.xml
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\bin\Debug\WebDriver.xml
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.csprojResolveAssemblyReference.cache
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.CRBeforeCreated.resources
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.Form1.resources
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.ImageSelectForm.resources
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.JoinForm.resources
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.lostFoundForm.resources
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.MainForm.resources
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.Properties.Resources.resources
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.UCLostFound.resources
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.UCMessage.resources
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.UCRoomList.resources
+C:\Users\KKE\Desktop\팀프최종합본\kwTalkClient\obj\Debug\kwTalkClient.csproj.GenerateResource.Cache
